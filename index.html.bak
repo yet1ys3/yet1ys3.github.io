@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html dir="" lang="es" style="">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Linux version 5.6.0">
+  <script>
+  var purecookieTitle="Cookies",purecookieDesc="Al utilizar este sitio web, acepta automáticamente que utilizamos cookies.",purecookieLink='<a href="privacy.html" target="_blank">FAQ</a>',purecookieButton="OK";function pureFadeIn(e,o){var i=document.getElementById(e);i.style.opacity=0,i.style.display=o||"block",function e(){var o=parseFloat(i.style.opacity);(o+=.02)>1||(i.style.opacity=o,requestAnimationFrame(e))}()}function pureFadeOut(e){var o=document.getElementById(e);o.style.opacity=1,function e(){(o.style.opacity-=.02)<0?o.style.display="none":requestAnimationFrame(e)}()}function setCookie(e,o,i){var t="";if(i){var n=new Date;n.setTime(n.getTime()+24*i*60*60*1e3),t="; expires="+n.toUTCString()}document.cookie=e+"="+(o||"")+t+"; path=/"}function getCookie(e){for(var o=e+"=",i=document.cookie.split(";"),t=0;t<i.length;t++){for(var n=i[t];" "==n.charAt(0);)n=n.substring(1,n.length);if(0==n.indexOf(o))return n.substring(o.length,n.length)}return null}function eraseCookie(e){document.cookie=e+"=; Max-Age=-99999999;"}function cookieConsent(){getCookie("purecookieDismiss")||(document.body.innerHTML+='<div class="cookieConsentContainer" id="cookieConsentContainer"><div class="cookieTitle"><a>'+purecookieTitle+'</a></div><div class="cookieDesc"><p>'+purecookieDesc+" "+purecookieLink+'</p></div><div class="cookieButton"><a onClick="purecookieDismiss();">'+purecookieButton+"</a></div></div>",pureFadeIn("cookieConsentContainer"))}function purecookieDismiss(){setCookie("purecookieDismiss","1",7),pureFadeOut("cookieConsentContainer")}window.onload=function(){cookieConsent()};
+  </script>
+  <style>
+  .cookieConsentContainer{z-index:999;width:350px;min-height:20px;box-sizing:border-box;padding:30px 30px 30px 30px;background:#232323;overflow:hidden;position:fixed;bottom:30px;right:30px;display:none}.cookieConsentContainer .cookieTitle a{font-family:OpenSans,arial,sans-serif;color:#fff !important;font-size:22px;line-height:20px;display:block}.cookieConsentContainer .cookieDesc p{margin:0;padding:0;font-family:OpenSans,arial,sans-serif;color:#fff !important;font-size:13px;line-height:20px;display:block;margin-top:10px}.cookieConsentContainer .cookieDesc a{font-family:OpenSans,arial,sans-serif;color:#fff !important;text-decoration:underline}.cookieConsentContainer .cookieButton a{display:inline-block;font-family:OpenSans,arial,sans-serif;color:#fff !important;font-size:14px;font-weight:700;margin-top:14px;background:#638870;box-sizing:border-box;padding:15px 24px;text-align:center;transition:background .3s}.cookieConsentContainer .cookieButton a:hover{cursor:pointer;background:#b0f5c2}@media (max-width:980px){.cookieConsentContainer{bottom:0!important;left:0!important;width:100%!important}}
+  </style>
+  <meta http-equiv="Content-Type" content=
+  "text/html; charset=utf-8">
+  <!--- basic page needs ================================================== -->
+  <title>- Detox Now</title>
+  <link rel="icon" href="./image/favicon.svg">
+  <!-- mobile specific metas ================================================== -->
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1">
+  <!-- CSS ================================================== -->
+  <style type="text/css">
+  svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}
+  </style>
+  <link rel="stylesheet" href="./assets/vendor.css">
+  <link rel="stylesheet" href="./assets/styles.css">
+  <!-- script ================================================== -->
+  <script src="./assets/modernizr.js"></script>
+  <script defer src="./assets/all.min.js"></script>
+  <style>
+  .form-form { padding: 25px; margin: 25px; box-shadow: 0 2px 5px #f5f5f5; background: #f5f5f5 } .form-input, .form-textarea { width: calc(100% - 18px); padding: 8px; margin-bottom: 20px; border: 1px solid #638870; outline: 0 } .form-input::placeholder { color: #666 } .form-button { width: 100%; padding: 10px; border: none; background: #638870; font-size: 16px; font-weight: 400; font-family: Roboto; color: #fff } .form-button:hover { background: #2371a0 }
+  </style>
+</head>
+<body id="top" data-aos-easing="ease-in-out" data-aos-duration=
+"800" data-aos-delay="400" data-new-gr-c-s-check-loaded="14.996.0"
+data-gr-ext-installed="" class="vsc-initialized">
+  <!-- preloader ================================================== -->
+  <div id="preloader" style="display: none;">
+    <div id="loader"></div>
+  </div>
+  <!-- header ================================================== -->
+  <header class="s-header s-header--opaque" style=
+  "background-color: #638870">
+    <div class="s-header__logo">
+      <a class="logo" href="/" style="color: white">Detox Now |
+      PUBLICITARIO</a>
+    </div>
+    <div class="row s-header__navigation">
+      <nav class="s-header__nav-wrap">
+        <h3 class="s-header__nav-heading h6">Navigate to</h3>
+        <ul class="s-header__nav">
+          <li>
+            <a href="/" title="">Principal</a>
+          </li>
+          <li>
+            <a href="#" title="">Noticias</a>
+          </li>
+          <li>
+            <a href="#" title="">Tendencias</a>
+          </li>
+          <li>
+            <a href="#" title="">Artículos</a>
+          </li>
+        </ul><a href="#0" title="Close Menu" class=
+        "s-header__overlay-close close-mobile-menu">Close</a>
+      </nav>
+    </div><a class="s-header__toggle-menu" href="#0" title=
+    "Menu"><span>Menu</span></a>
+  </header><!-- end s-header -->
+  <!-- content ================================================== -->
+  <section class="s-content">
+    <div class="row">
+      <div class="column large-12">
+        <article class="s-content__entry format-standard">
+          <div class="s-content__media">
+            <div class="s-content__post-thumb" style=
+            "text-align: center"><img src="./image/93.jpg" style=
+            "height: 500px" alt=""></div>
+          </div><!-- end s-content__media -->
+          <div class="s-content__entry-header">
+            <h1 class="s-content__title s-content__title--post">
+            </h1>
+          </div><!-- end s-content__entry-header -->
+          <article>
+            <div class="s-content__primary">
+              <div class="s-content__entry-content">
+                <p class="lead"></p>
+                <p><br>
+                <iframe style="width:500px;height:300px" src=
+                "https://www.youtube.com/embed/5qap5aO4i9A"></iframe><br>
+                </p><br>
+                <form class="form-form" action="thankyou.php">
+                  <link rel="stylesheet" href=
+                  "https://use.fontawesome.com/releases/v5.4.1/css/all.css"
+                  crossorigin="anonymous">
+                  <link href=
+                  "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"
+                  rel="stylesheet">
+                  <h1 style="text-align: center">Suscríbete a
+                  nosotros</h1>
+                  <div>
+                    <input class="fname form-input" type="text"
+                    name="name" placeholder="Nombre"> <input class=
+                    "form-input" type="text" name="email"
+                    placeholder="Email"> <input class="form-input"
+                    type="text" name="phone" placeholder=
+                    "Teléfono"> <button class="form-button" type=
+                    "submit" href="/">Enviar</button>
+                  </div>
+                </form><br>
+              </div>
+              <div class="s-content__entry-meta">
+                <div class="entry-author meta-blk">
+                  <div class="author-avatar"><img class="avatar"
+                  src=
+                  "https://api.dicebear.com/7.x/micah/svg?seed=Francisco%20Mora&amp;mouth=smile"
+                  alt=""></div>
+                  <div class="byline">
+                    <a href="#">@<b>Francisco Mora</b></a>
+                  </div>
+                </div>
+                <div class="meta-bottom">
+                  <div class="entry-cat-links meta-blk">
+                    Publicado en <b>27/02/21</b>
+                  </div>
+                  <div class="entry-tags meta-blk">
+                    <span>Etiquetas:</span> <a href=""><b style=
+                    "color: blue">#</b>Detox Now</a><br>
+                    <div class=
+                    "a2a_kit a2a_kit_size_32 a2a_default_style">
+                      <a class="a2a_dd" href=
+                      "https://www.addtoany.com/share"></a>
+                      <a class="a2a_button_facebook"></a> <a class=
+                      "a2a_button_twitter"></a> <a class=
+                      "a2a_button_email"></a>
+                    </div>
+                    <script async src=
+                    "https://static.addtoany.com/menu/page.js"></script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article><!-- end entry -->
+        </article>
+      </div><!-- end column -->
+    </div><!-- end row -->
+    <!-- comments ================================================== -->
+    <div class="comments-wrap">
+      <div id="comments" class="row">
+        <!-- START respond -->
+        <div id="respond" class="column">
+          <!-- FORM -->
+        </div><!-- END respond-->
+      </div><!-- end comment-respond -->
+    </div><!-- end comments-wrap -->
+  </section><!-- end s-content -->
+  <!-- footer ================================================== -->
+  <footer class="s-footer" style="background-color: #b0f5c2">
+    <div class="s-footer__bottom">
+      <div class="row">
+        <div class="column">
+          <div class="ss-copyright">
+            ©
+            <script>
+            document.write(new Date().getFullYear());
+            </script> Detox Now. Reservados todos los derechos |
+            Este sitio no es parte del sitio web de Facebook o
+            Facebook Inc. Además. Este sitio NO está respaldado por
+            Facebook de ninguna manera. FACEBOOK es una marca
+            comercial de FACEBOOK, Inc.<br>
+            <a href="terms.html">Términos y condiciones</a> |
+            <a href="privacy.html">Política de privacidad</a>
+          </div><!-- end ss-copyright -->
+        </div>
+      </div>
+      <div class="ss-go-top">
+        <a class="smoothscroll" title="Back to Top" href=
+        "#top"><svg viewbox="0 0 15 15" fill="none" xmlns=
+        "http://www.w3.org/2000/svg" width="15" height="15">
+        <path d=
+        "M7.5 1.5l.354-.354L7.5.793l-.354.353.354.354zm-.354.354l4 4 .708-.708-4-4-.708.708zm0-.708l-4 4 .708.708 4-4-.708-.708zM7 1.5V14h1V1.5H7z"
+        fill="currentColor"></path></svg></a>
+      </div><!-- end ss-go-top -->
+    </div><!-- end s-footer__bottom -->
+  </footer><!-- end s-footer -->
+  <!-- Java Script ================================================== -->
+  <script src="./assets/jquery-3.5.0.min.js"></script> 
+  <script src="./assets/plugins.js"></script> 
+  <script src="./assets/main.js"></script>
+</body>
+</html>
